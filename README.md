@@ -1,6 +1,6 @@
 # My first repo at codeinstitute.net for GitPod
 
-Welcome! [Code Institute]{https://codeinstitute.net}
+Welcome! [Code Institute](https://codeinstitute.net)
 
 ## h2
 
